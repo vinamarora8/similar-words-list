@@ -22,3 +22,7 @@ A list of words that mean similar things, or have any other similarity
 + Balk
 + Snub : deliberately, insulting manner
 + Spurn : with contempt
+
+### 5. Words relating to competition
++ Vie : to compete
++ Vanquish : to defete
