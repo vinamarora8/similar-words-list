@@ -11,6 +11,7 @@ A list of words that mean similar things, or have any other similarity
 + Irascible : 'ira' refers to anger, not 'ir' as in 'irresistible'
 + Peevish : easily irritated
 + Morose : also, not inclined to talk, also gloomy
++ Fractious : quarrelsome
 + Surly
 + Bilious
 
@@ -74,6 +75,7 @@ A list of words that mean similar things, or have any other similarity
 + Pacify
 + Appease
 + Soothe
++ Extenuate : by making partial excuses
 
 ### 14. Condescending tone
 + Superrcilious
