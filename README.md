@@ -12,6 +12,7 @@ A list of words that mean similar things, or have any other similarity
 + Peevish : easily irritated
 + Morose : also, not inclined to talk, also gloomy
 + Fractious : quarrelsome
++ Choleric : prone to outbursts of temper
 + Surly
 + Bilious
 
@@ -112,3 +113,16 @@ A list of words that mean similar things, or have any other similarity
 + Fulminate
 + Revile : Abuse
 + Vituperate : Abuse
+
+### 20. Large in number
++ Abound
++ Replete
++ Inundate
++ Excessive
++ Copious
++ Glut
++ Raft
++ Profuse
++ Myriad
++ Flush
++ Cornucopia
