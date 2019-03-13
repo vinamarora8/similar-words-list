@@ -15,6 +15,8 @@ A list of words that mean similar things, or have any other similarity
 + Choleric : prone to outbursts of temper
 + Surly
 + Bilious
++ Jaundiced
++ Petulant
 
 ### 3. Related to tiredness/laziness
 + Flagging
@@ -126,3 +128,26 @@ A list of words that mean similar things, or have any other similarity
 + Myriad
 + Flush
 + Cornucopia
+
+### 21. To explain/clarify
++ delineate
++ expound
++ elucidate
++ exposition
++ exegesis : critically explain soemthing
++ prolixity : boring verbosity
++ pedantic : whore for minor details
++ didactic : related to teaching
++ explicate
+
+### 22. Careful with details
++ Diligent
++ Meticulous
+
+### 23. Having acute insight/understanding
++ Sagacious
++ Sedulous : one who shows careful perseverance
++ Shrewd
++ Persipicacious
++ Perceptive
++ Savvy	
