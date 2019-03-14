@@ -46,6 +46,7 @@ A list of words that mean similar things, or have any other similarity
 + Rakish
 + Precipitatiously : very haphazardously, hurry
 + Raffish : careless manner
++ Impetuous : very impulsive (vehemence)
 
 ### 8. Attack someone/somethiong's reputation
 + Besmirch
@@ -93,6 +94,7 @@ A list of words that mean similar things, or have any other similarity
 + Caustic
 + Acerbic
 + Abrasive
++ Asperity : Harshness of manner, also severity
 
 ### 16. Colourless, flavorless, plain, dull
 + Insipid
@@ -112,6 +114,7 @@ A list of words that mean similar things, or have any other similarity
 + Platitude
 + Trifling
 + Trivial
++T rope
 
 ### 19. Attack in words (verbal or spoken)
 + Polemic
@@ -156,4 +159,8 @@ A list of words that mean similar things, or have any other similarity
 + Shrewd
 + Persipicacious
 + Perceptive
-+ Savvy	
++ Savvy
+
+### 24. Thinking of oneself as superior
++ Magesterial
++
