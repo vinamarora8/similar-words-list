@@ -24,6 +24,8 @@ A list of words that mean similar things, or have any other similarity
 + Lassitude : mental and physical tiredness
 + Lethargy
 + Languid
++ Torpor
+
 
 ### 4. Refusal/rejection
 + Balk
@@ -48,6 +50,7 @@ A list of words that mean similar things, or have any other similarity
 ### 8. Attack someone/somethiong's reputation
 + Besmirch
 + Repudiate
++ Denigrate
 
 ### 9. Arrogant tone
 + Brusquely
@@ -79,6 +82,7 @@ A list of words that mean similar things, or have any other similarity
 + Appease
 + Soothe
 + Extenuate : by making partial excuses
++ Assuage : to lessen intensity (of pain, distress etc)., pacify
 
 ### 14. Condescending tone
 + Superrcilious
@@ -115,6 +119,7 @@ A list of words that mean similar things, or have any other similarity
 + Fulminate
 + Revile : Abuse
 + Vituperate : Abuse
++ Screed : Abuse
 
 ### 20. Large in number
 + Abound
@@ -139,6 +144,7 @@ A list of words that mean similar things, or have any other similarity
 + pedantic : whore for minor details
 + didactic : related to teaching
 + explicate
++ expatiate : write in detail about
 
 ### 22. Careful with details
 + Diligent
