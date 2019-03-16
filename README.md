@@ -17,6 +17,7 @@ A list of words that mean similar things, or have any other similarity
 + Bilious
 + Jaundiced
 + Petulant
++ Curmudgeon
 
 ### 3. Related to tiredness/laziness
 + Flagging
@@ -47,6 +48,7 @@ A list of words that mean similar things, or have any other similarity
 + Precipitatiously : very haphazardously, hurry
 + Raffish : careless manner
 + Impetuous : very impulsive (vehemence)
++ Imprudent
 
 ### 8. Attack someone/somethiong's reputation
 + Besmirch
@@ -57,7 +59,8 @@ A list of words that mean similar things, or have any other similarity
 + Brusquely
 + Curtly
 + Churlish
-+ Peremptory : Bossy tone
++ Peremptory : bossy/dictatorial
++ Imperious : in a commanding manner
 
 ### 10. Short general truth
 + Aphorism
@@ -163,4 +166,27 @@ A list of words that mean similar things, or have any other similarity
 
 ### 24. Thinking of oneself as superior
 + Magesterial
-+
++ Supercilious
+
+### 25. To gain the goodwill of
++ Propitiate
++ Ingratiate
+
+#### 26. Stubborn
++ Obstinate
++ Obdurate
++ Refractory
++ Obstreperous
+
+### 27. Impulsive
++ Precipitate
++ Impetuous
++ Capricious
++ Whimsical
+
+### 28.  Express disapproval
++ Decry
++ Depreciate
++ Disparage
++ Belittle
++ Denounce
